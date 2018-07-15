@@ -1,0 +1,11 @@
+Requirements for GUI application:
+
+* Python 3.6
+* numpy
+* matplotlib
+* pillow(PIL)
+* pandas
+* requests
+* sqlite3 
+* tkinter (added by deafult in windows)
+
